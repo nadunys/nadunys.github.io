@@ -1,0 +1,13 @@
+title: "Nadun Yashmika"
+email: yashnadun@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Passionate programmer, with ~6 years of trial and error coding experience. An explorer, developer and a music lover.
+baseurl: "/"
+url: "/portfolio-template"
+twitter_username: nadunys
+github_username: nadunys
+
+sass:
+  sass_dir: _sass
+
+icon: ./assets/img/icon.jpg
